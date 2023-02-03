@@ -1,10 +1,10 @@
-module github.com/gofiber/utils
+module github.com/gofiber/utils/v2
 
 go 1.19
 
 require (
 	github.com/google/uuid v1.3.0
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.1
 )
 
 require (
